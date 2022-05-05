@@ -1,6 +1,8 @@
 # CRUD API FEITO COM NEST E FRONT-END FEITO EM VUE.JS
 ### Banco não relacional usado: MongoDB e API documentada com Swagger.
 
+##### *Obs: se certificar de ter o MongoDB instalado e ativo.
+
 ## Para testar a aplicação, clone o repositório e então use os seguintes comandos para conectar a API:
 
 ```
